@@ -3,5 +3,5 @@
 Основы тестирования
 
 Источники информации
-information%20sources.md
+information-20sources.md
 
