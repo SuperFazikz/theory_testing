@@ -5,6 +5,7 @@
 
 Основы тестирования
 * [основы](basic.md)
+* [процесс разработки ПО](software_development_process.md)
 
 Источники информации
 * [Источники информации](information-sources.md)
