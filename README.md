@@ -7,6 +7,7 @@
 * [основы](basic.md)
 * [процесс разработки ПО](software_development_process.md)
 * [жизненый цикл тестирования](testing_lifecycle.md)
+* [основная документация](documentation_and_artefacts.md)
 
 Источники информации
 * [Источники информации](information-sources.md)
