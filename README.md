@@ -14,6 +14,7 @@
 
 ## Классификация и виды тестирования
 * [классификация по видам и типам тестирования. Часть 1](Classification_and_types_of_testing_part1.md)
+* [классификация по видам и типам тестирования. Часть 2](Classification_and_types_of_testing_part2.md)
 
 Источники информации
 * [Источники информации](information-sources.md)
