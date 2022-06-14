@@ -17,6 +17,9 @@
 * [классификация по видам и типам тестирования. Часть 2](Classification_and_types_of_testing_part2.md)
 * [классификация по видам и типам тестирования. Часть 3](Classification_and_types_of_testing_part3.md)
 
+## Чек-листы, тест-кейсы
+* [Чек-листы и тест-кейсы](check_list_and_test_case.md)
+
 Источники информации
 * [Источники информации](information-sources.md)
 
